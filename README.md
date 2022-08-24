@@ -1,2 +1,4 @@
-# verde-challenge
-Simple posts and post page implementation with immutable api 
+# Verde Cooperation Frontend Dev Challenge
+## dependencies - npm i
+-----------------
+## 'npm start' to start project locally
